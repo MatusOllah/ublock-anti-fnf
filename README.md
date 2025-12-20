@@ -8,7 +8,7 @@ A [uBlock Origin](https://github.com/gorhill/uBlock) filter list to block Friday
 
 Friday Night Funkin' is a questionable Flash rhythm game with a large amount of inappropriate content, gore, innuendos, and a very toxic fanbase. This filter list aims to help users avoid it.
 
-Also I hate it, so there's that.
+Also I hate the game, so there's that.
 
 ## Usage
 
