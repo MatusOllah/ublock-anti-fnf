@@ -5,9 +5,9 @@
 ! License: https://github.com/MatusOllah/ublock-anti-fnf/blob/main/LICENSE
 
 ! ===== Global filters =====
-##:has-text(/fnf/i)
-##:has-text(/funkin/i)
 ##body:has-text(/fnf|funkin/i)
+##[alt*="Friday Night Funkin'"]
+##[alt*="FNF"]
 
 ! ===== YouTube =====
 youtube.com##ytd-video-renderer:has-text(/fnf|friday night funkin/i)
@@ -33,8 +33,7 @@ reddit.com##div:has-text(/fnf/i)
 reddit.com##a[href*="r/FridayNightFunkin"]
 
 ! ===== GameBanana =====
-gamebanana.com##.listing-item:has-text(/fnf|funkin/i)
-gamebanana.com##.gb-mod-card:has-text(/fnf|funkin/i)
-gamebanana.com##a[href*="fnf"]
-gamebanana.com##a[href*="friday-night-funkin"]
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
+gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
+gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
+gamebanana.com##div.Record:has(img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"])
