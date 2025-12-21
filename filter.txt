@@ -4,11 +4,6 @@
 ! GitHub repository: https://github.com/MatusOllah/ublock-anti-fnf
 ! License: https://github.com/MatusOllah/ublock-anti-fnf/blob/main/LICENSE
 
-! == Global filters
-##*:has-text(/friday night funkin/i)
-##img[alt*="Friday Night Funkin'"]
-##img[alt*="FNF"]
-
 ! == Domains
 ||fridaynightfunkin.fandom.com^
 ||fridaynightfunkin.wiki.gg^
