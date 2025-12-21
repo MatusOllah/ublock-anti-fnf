@@ -218,18 +218,18 @@ y8.com##li.item.thumb[data-label-ids*="FNF"]
 y8.com##li:has(a.tag-item[title="FNF"])
 
 ! == GameBanana
-gamebanana.com##a[href="https://gamebanana.com/games/8694"]
-gamebanana.com##img[img[alt="Friday Night Funkin' icon"]]
-gamebanana.com##img[src="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
-gamebanana.com##div.Record:has(img[alt="Friday Night Funkin' icon"])
-gamebanana.com##div.PreviewWrapper:has(img[alt="Friday Night Funkin' icon"])
-gamebanana.com##a.Slide:has(img[alt="Friday Night Funkin' icon"])
-gamebanana.com##a.SubmissionCard.Preview:has-text(/friday night funkin|fnf|funkin/i)
-gamebanana.com##a.SubmissionCard.Preview:has(img[alt="Friday Night Funkin' icon"])
-||gamebanana.com/mods/358769^
 ||gamebanana.com/games/8694^
 ||images.gamebanana.com/img/ico/games/62082c1edaf3d.png^
 ||images.gamebanana.com/img/ico/ModCategory/68796321e4997.png^
+||gamebanana.com/mods/358769^
+gamebanana.com##a[href="https://gamebanana.com/games/8694"]
+gamebanana.com##img[alt="Friday Night Funkin' icon"]
+gamebanana.com##img[src="https://images.gamebanana.com/img/ico/ModCategory/68796321e4997.png"]
+gamebanana.com##div.Record:has(img[alt="Friday Night Funkin' icon"])
+gamebanana.com##a.Slide:has(img[alt="Friday Night Funkin' icon"])
+gamebanana.com##a.SubmissionCard.Preview:has(img[alt="Friday Night Funkin' icon"])
+gamebanana.com##a.SubmissionCard.Preview:has-text(/friday night funkin|funkin|fnf/i)
+gamebanana.com##div.swiper-slide:has(img[alt="Friday Night Funkin' icon"])
 
 ! == ModDB
 ||moddb.com/games/friday-night-funkin^
