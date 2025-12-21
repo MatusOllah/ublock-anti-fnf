@@ -206,6 +206,12 @@ paixnidiaxl.gr##div.game-card:has(a[href*="friday-night-sprunki"])
 ||paixnidiaxl.gr/skill/super-friday-night-funki^
 paixnidiaxl.gr##div.game-card:has(a[href*="super-friday-night-funki"])
 
+! == Y8
+||y8.com/games/friday_night_funkin^
+||y8.com/tags/fnf^
+y8.com##li.item.thumb[data-label-ids*="FNF"]
+y8.com##li:has(a.tag-item[title="FNF"])
+
 ! == GameBanana
 gamebanana.com##a[href="https://gamebanana.com/games/8694"]
 gamebanana.com##img[src="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
