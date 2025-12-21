@@ -284,5 +284,8 @@ kawaisprite.bandcamp.com##li.music-grid-item:has-text(/friday night funkin|funki
 discogs.com##tr:has-text(/friday night funkin/i)
 discogs.com##li:has-text(/friday night funkin/i)
 
+! == dollchan.net Bytebeat composer
+dollchan.net##div.entry:has-text(/friday night funkin|fnf/i)
+
 ! == Soundcloud
 ||soundcloud.com/kawaisprite^
