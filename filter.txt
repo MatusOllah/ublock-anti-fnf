@@ -110,6 +110,10 @@ roblox.com##a:has-text(/fnf|funkin/i)
 ||poki.com/*/g/friday-night-funkin^
 poki.com##a[href*="/g/friday-night-funkin"]
 
+! == CrazyGames
+||crazygames.com/game/friday-night-funkin^
+crazygames.com##a[aria-label*="Friday Night Funkin'"]
+
 ! == GameBanana
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
 gamebanana.com##img[src*="https://images.gamebanana.com/img/ico/games/62082c1edaf3d.png"]
