@@ -12,14 +12,29 @@
 ! == Domains
 ||fridaynightfunkin.fandom.com^
 ||fridaynightfunkin.wiki.gg^
+||friday-night-funkin.net^
+||fridaynightfunkin.io^
 ||fnfmods.net^
+||fnfmods.xyz^
 ||fnfunkin.com^
 ||funkin.me^
+||sprunki.website^
+||fnfgo.io^
+||fnfgo.gg^
+||fridaynightfunkin.lol^
+||fnf-online.io^
+||fnfgo.pro^
+||fnfgaming.com^
+||fnfunblocked.com^
+||fnf.onl^
+||funkinchan.fun^
+||sites.google.com/view/fnmods^
+||sites.google.com/site/fnfunblocked^
 
 ! == Newgrounds + Ungrounded CDN (this WILL break the entire website)
 ||newgrounds.com^
 ||newgrounds.io^
-||uploads.ungrounded.net^
+||ungrounded.net^
 
 ! == Wikipedia
 ||en.wikipedia.org/wiki/Friday_Night_Funkin^
@@ -88,8 +103,12 @@ reddit.com##a[href*="r/FridayNightFunkin"]
 ! == Scratch
 scratch.mit.edu##a:has-text(/fnf|funkin/i)
 
-! === Roblox
+! == Roblox
 roblox.com##a:has-text(/fnf|funkin/i)
+
+! == Poki
+||poki.com/*/g/friday-night-funkin^
+poki.com##a[href*="/g/friday-night-funkin"]
 
 ! == GameBanana
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
