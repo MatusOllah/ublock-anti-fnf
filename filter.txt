@@ -117,10 +117,10 @@ roblox.com##a:has-text(/fnf|funkin/i)
 poki.com##a[href*="/g/friday-night-funkin"]
 
 ! == CrazyGames
-||crazygames.com/game/friday-night-funkin^
-crazygames.com##a[aria-label*="Friday Night Funkin'"]
-crazygames.com##a[href*="crazygames.com/game/friday-night-funkin"]
-crazygames.com##p:has-text(similar to FNF)
+||crazygames.*/game/friday-night-funkin^
+crazygames.*##a[aria-label*="Friday Night Funkin'"]
+crazygames.*##a[href*="crazygames.com/game/friday-night-funkin"]
+crazygames.*##p:has-text(similar to FNF)
 
 ! == Superhry.cz
 ||superhry.cz/hra/19526-friday-night-funkin^
