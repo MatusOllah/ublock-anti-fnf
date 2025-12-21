@@ -113,6 +113,8 @@ poki.com##a[href*="/g/friday-night-funkin"]
 ! == CrazyGames
 ||crazygames.com/game/friday-night-funkin^
 crazygames.com##a[aria-label*="Friday Night Funkin'"]
+crazygames.com##a[href="https://www.crazygames.com/game/friday-night-funkin"]
+crazygames.com##p:has-text(similar to FNF)
 
 ! == GameBanana
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
