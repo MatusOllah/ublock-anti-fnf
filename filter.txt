@@ -113,8 +113,12 @@ poki.com##a[href*="/g/friday-night-funkin"]
 ! == CrazyGames
 ||crazygames.com/game/friday-night-funkin^
 crazygames.com##a[aria-label*="Friday Night Funkin'"]
-crazygames.com##a[href="https://www.crazygames.com/game/friday-night-funkin"]
+crazygames.com##a[href*="crazygames.com/game/friday-night-funkin"]
 crazygames.com##p:has-text(similar to FNF)
+
+! == Superhry.cz
+||superhry.cz/hra/19526-friday-night-funkin^
+superhry.cz##div.Glist:has(a[href*="superhry.cz/hra/19526-friday-night-funkin"])
 
 ! == GameBanana
 gamebanana.com##a[href*="https://gamebanana.com/games/8694"]
