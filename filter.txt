@@ -311,8 +311,6 @@ audiocipher.com##div[data-breakout="normal"]:has(div#viewer-dl637)
 ||musicbrainz.org/release-group/f7a22a31-6dbb-40ab-a9dd-a2096fc8505e^
 ||musicbrainz.org/release-group/924dc133-9287-4d42-bff6-02349f695a17^
 musicbrainz.org##tr:has-text(/friday night funkin/i)
-musicbrainz.org##tr:has-text(Bopeebo)
-musicbrainz.org##tr:has-text(Fresh)
 
 ! == Bandcamp
 ||kawaisprite.bandcamp.com^
